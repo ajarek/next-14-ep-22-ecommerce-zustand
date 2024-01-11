@@ -9,7 +9,7 @@ const ProductDetails = ({ params }: { params: { slug: string } }) => {
   if (!product) return <div>Product not found</div>
   return (
     <>
-      <div className='my-2'>
+      <div className='my-2 ml-6'>
         <Link href='/'> Back to home</Link>
       </div>
       <div className='grid md:grid-cols-4 md:gap-3'>
