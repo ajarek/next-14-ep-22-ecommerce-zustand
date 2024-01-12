@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+
+<img width="400" alt="Zrzut ekranu 2024-01-12 232831" src="https://github.com/ajarek/next-14-ep-22-ecommerce-zustand/assets/61388692/1a040613-a8d4-40db-a86b-50448d3fff8b">
+
 ## Getting Started
 
 First, run the development server:
